@@ -27,16 +27,14 @@ I hope you agree that we really need to write actual code to study programming. 
 is built around code samples. Every section in the book is accompanied by a corresponding
 code sample and, if applicable, screenshots.
 Before starting to read this book, I strongly encourage you to get a Git and download the
-accompanying GitHub repository, which you can find at https://github. com/sgrinev/
-mastering-javafx-9-10-book.
+accompanying GitHub repository, which you can find at https://github.com/sgrinev/mastering-javafx-9-10-book.
 There are about 130 code samples, grouped by chapters numbers. For your convenience,
 each chapter is a NetBeans project, but almost every code sample is self-sufficient and can
 be run separately without the help of an IDE. If you opt for the latter approach, you can
 find the guidelines for running JavaFX apps from the command line in Chapter
 11, Packaging with Java9 Jigsaw.
 At the time of writing, you need the latest in-development version of
-Netbeans to work with Java 9 and 10. You can find it at http://bits.
-netbeans. org/download/trunk/nightly/latest/.
+Netbeans to work with Java 9 and 10. You can find it at http://bits.netbeans.org/download/trunk/nightly/latest/.
 While you can get a good grasp of the topics described by just reading the book and
 looking at the screenshots, toying with the code samples and seeing the results of your
 changes will give you a much better understanding of JavaFX APIs.
